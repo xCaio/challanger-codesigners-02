@@ -4,9 +4,7 @@
     width: 50%;
     height: 34px;
     justify-content: space-between;
-    margin-bottom: 105px;
-    margin-left: 130px;
-    
+    margin: 25px 0px 105px 130px;
 }
 .main-header .title{
     margin-left: 13px;
