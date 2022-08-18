@@ -1,0 +1,22 @@
+.main-section{
+   display: flex;
+   align-items: center; 
+   width: 45%;
+   height: 45px;
+   border: 1px rgba(0, 0, 0, 0.233) solid;
+   border-radius: 30px;
+   justify-content: center;
+   background-color: rgba(135, 150, 140, 0.5);
+   padding: 2px;
+   margin-left: 165px;
+   margin-bottom: 56px;
+}
+.main-section .button{
+    padding: 9px 16px;
+    border-radius: 30px;
+}
+
+.main-section .text{
+    margin-left: 10px;
+}
+

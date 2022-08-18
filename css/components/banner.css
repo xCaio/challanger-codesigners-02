@@ -1,0 +1,11 @@
+.banner{
+    width: 665px;
+    height: 646px;
+    box-shadow: -20px 20px #204A2C;
+}
+.banner::after{
+    content: 'dalksjd';
+    display: block;
+    /* background-image: linear-gradient(to left, #333, #333 50%, #eee 75%, #333 75%); */
+    background-color: red;
+}

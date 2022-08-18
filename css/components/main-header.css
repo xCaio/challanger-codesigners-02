@@ -1,0 +1,17 @@
+.main-header{
+    display: flex;
+    align-items: center;
+    width: 50%;
+    height: 34px;
+    justify-content: space-between;
+    margin-bottom: 105px;
+    margin-left: 130px;
+    
+}
+.main-header .title{
+    margin-left: 13px;
+}
+.main-header .wrapper{
+    display: flex;
+    align-items: center;
+}

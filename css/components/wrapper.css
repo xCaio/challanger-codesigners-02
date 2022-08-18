@@ -1,0 +1,32 @@
+.wrapper{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.wrapper .text.-second{
+    position: absolute;
+    top: 259px;
+    left: 410px;
+}
+.wrapper .text.-second::after{
+    content: '';
+    display: block;
+    box-sizing: border-box;
+    width: 80px;
+    height: 3px;
+    background-color: #E8BE4E;
+    margin-top: 24px;
+}
+.wrapper .text{
+    position: absolute;
+    top: 481px;
+    left: 410px;
+}
+.wrapper .title{
+    position: absolute;
+    font-size: 24px;
+    font-weight: 500;
+    top: 579px;
+    left: 410px;
+}

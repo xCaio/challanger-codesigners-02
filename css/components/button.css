@@ -1,0 +1,8 @@
+.button{
+    background-color: #E8BE4E;
+    color: #222222;
+    font-weight: 700;
+}
+.button:hover{
+    transform: scale(1.1);
+}

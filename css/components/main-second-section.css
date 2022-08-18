@@ -1,0 +1,8 @@
+.main-second-section{
+    display: block;
+    background: linear-gradient(270deg, #697E6F 15.11%, rgba(105, 126, 111, 0) 100%);
+
+}
+.main-second-section .text.-second{
+    width: 255px;
+}

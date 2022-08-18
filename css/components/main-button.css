@@ -1,0 +1,15 @@
+.main-button{
+    background-color: #E8BE4E;
+    color: #222222;
+    font-size: 18px;
+    font-weight: 700;
+    width: 190px;
+    height: 55px;
+    transition: 1s;
+    cursor: pointer;
+}
+.main-button:hover{
+    transform: scale(1.1);
+    border-radius: 8px;
+    box-shadow: 1px 1px black;
+}
